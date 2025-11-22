@@ -1,5 +1,5 @@
 
-# ATM Console Application (C++)
+# ATM Console Application 
 
 Simple console-based ATM application demonstrating OOP concepts in C++:
 - Classes, inheritance, access specifiers (private/protected/public)
@@ -111,5 +111,3 @@ Replace `main.cpp` with the actual source filename if different.
 ## Contribution
 Improvements welcome (input sanitization, persistent storage, unit tests). Open issues or pull requests.
 
-## License
-Add a license of your choice (for example, MIT) if you plan to publish this project.
